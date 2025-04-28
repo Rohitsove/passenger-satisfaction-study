@@ -12,8 +12,8 @@ I have applied various statistical techniques such as:
 -Graphical Analysis using Excel and R Software
 
 🔧 Tools and Technologies
-Microsoft Excel
-R Software
+-Microsoft Excel
+-R Software
 
 📊 Key Findings
 #Passenger Satisfaction Index: 58.2%
