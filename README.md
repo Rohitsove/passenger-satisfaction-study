@@ -1,6 +1,6 @@
-A Study of Passenger Satisfaction (MSRTC - Chopda Taluka)
+# A Study of Passenger Satisfaction in Maharashtra State Road Transport Corporation in Chopda Taluka
 📚 About the Project
-I completed this project while pursuing my Bachelor's degree in Statistics during the academic year 2020–21 at Pratap College, Amalner under K.B.C. North Maharashtra University.
+I completed this project while pursuing my Bachelor's in Statistics during the academic year 2020–21 at Pratap College, Amalner, under K.B.C. North Maharashtra University.
 This was my final year project based on primary data collection through surveys. I received valuable help from my father, who works as a conductor in the Maharashtra State Road Transport Corporation (MSRTC). 
 His insights helped me frame better survey questions and understand real-world passenger experiences.
 
@@ -16,9 +16,9 @@ Microsoft Excel
 R Software
 
 📊 Key Findings
-# Passenger Satisfaction Index: 58.2%
-# No significant difference between MSRTC services in 2019-20 and 2020-21.
-# Significant difference found between MSRTC and Railway services.
+#Passenger Satisfaction Index: 58.2%
+#No significant difference between MSRTC services in 2019-20 and 2020-21.
+#Significant difference found between MSRTC and Railway services.
 
 🙏 Acknowledgements
-# Special thanks to my teachers, guide professors, and my father for their support during this project.
+#Special thanks to my teachers, guide professors, and my father for their support during this project.
